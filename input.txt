@@ -1,0 +1,1 @@
+Data structures and algorithms are fundamental to software engineering. Efficient algorithms reduce execution time and memory usage, while appropriate data structures improve overall system performance.
